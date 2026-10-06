@@ -1,4 +1,4 @@
-# dateService
+# DateService
 A date Service Library for vRO 
 
 # Usage
